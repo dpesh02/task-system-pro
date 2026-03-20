@@ -1,4 +1,4 @@
-# 📝 Task Manager App (Part 1 + Track A)
+# 📝 Task Management System (Part 1 + Track A)
 
 A full-stack Task Manager application built using modern web technologies. This project includes authentication, task management, and a responsive UI.
 
