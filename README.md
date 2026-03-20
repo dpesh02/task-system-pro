@@ -57,11 +57,11 @@ npm run dev
 - Frontend port: 3000 or 3001
 
 ---
-## 📸 Local Host Page
+## 📸 Local Host
 
 ### Home Page
 ![Home](Image/home.jpg)
 
 ---
 ## 👨‍💻 Author
-Dipesh Shah
+Dipesh Shah 
